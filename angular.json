@@ -75,7 +75,8 @@
               "browserTarget": "httptest:build:production"
             },
             "development": {
-              "browserTarget": "httptest:build:development"
+              "browserTarget": "httptest:build:development",
+              "port": 8100
             }
           },
           "defaultConfiguration": "development"
